@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Swingbuddy Production",
+    "url": "https://prod.swingbuddy.se/version",
+    "icon": "https://favicons.githubusercontent.com/prod.swingbuddy.se",
+    "slug": "swingbuddy-production",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 524,
+    "timeDay": 524,
+    "timeWeek": 524,
+    "timeMonth": 524,
+    "timeYear": 524,
+    "dailyMinutesDown": {
+      "2022-02-08": 9
+    }
+  },
+  {
+    "name": "Swingbuddy Development",
+    "url": "https://dev.swingbuddy.se/version",
+    "icon": "https://favicons.githubusercontent.com/dev.swingbuddy.se",
+    "slug": "swingbuddy-development",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 770,
+    "timeDay": 770,
+    "timeWeek": 770,
+    "timeMonth": 770,
+    "timeYear": 770,
+    "dailyMinutesDown": {
+      "2022-02-08": 9
+    }
+  }
+]
