@@ -5,6 +5,8 @@ repo: swingbuddy-status # The name of this repository
 sites:
   - name: Swingbuddy Production
     url: https://prod.swingbuddy.se/version
+  - name: Swingbuddy Staging
+    url: https://stage.swingbuddy.se/version
   - name: Swingbuddy Development
     url: https://dev.swingbuddy.se/version
 
