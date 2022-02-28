@@ -42,19 +42,19 @@
     "url": "https://dev.swingbuddy.se/version",
     "icon": "https://favicons.githubusercontent.com/dev.swingbuddy.se",
     "slug": "swingbuddy-development",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 769,
-    "timeWeek": 797,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 781,
+    "timeDay": 755,
+    "timeWeek": 791,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2022-02-28": 0
+      "2022-02-28": 13
     }
   }
 ]
