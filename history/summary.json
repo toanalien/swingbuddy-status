@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/stage.swingbuddy.se",
     "slug": "swingbuddy-staging",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 666,
     "timeDay": 568,
     "timeWeek": 548,
@@ -42,17 +42,19 @@
     "url": "https://dev.swingbuddy.se/version",
     "icon": "https://favicons.githubusercontent.com/dev.swingbuddy.se",
     "slug": "swingbuddy-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 820,
-    "timeWeek": 804,
-    "timeMonth": 784,
-    "timeYear": 784,
-    "dailyMinutesDown": {}
+    "time": 782,
+    "timeDay": 769,
+    "timeWeek": 797,
+    "timeMonth": 782,
+    "timeYear": 782,
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   }
 ]
