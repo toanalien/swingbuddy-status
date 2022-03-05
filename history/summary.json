@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 791,
-    "timeWeek": 585,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "time": 585,
+    "timeDay": 367,
+    "timeWeek": 538,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/stage.swingbuddy.se",
     "slug": "swingbuddy-staging",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 640,
-    "timeDay": 568,
-    "timeWeek": 520,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 638,
+    "timeDay": 559,
+    "timeWeek": 506,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2022-02-11": 128
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 972,
-    "timeWeek": 803,
-    "timeMonth": 779,
-    "timeYear": 779,
+    "time": 784,
+    "timeDay": 1000,
+    "timeWeek": 822,
+    "timeMonth": 784,
+    "timeYear": 784,
     "dailyMinutesDown": {}
   }
 ]
