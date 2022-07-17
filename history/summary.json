@@ -4,7 +4,7 @@
     "url": "https://prod.swingbuddy.se/version",
     "icon": "https://favicons.githubusercontent.com/prod.swingbuddy.se",
     "slug": "swingbuddy-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 552,
     "timeMonth": 623,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-17": 0
+    }
   },
   {
     "name": "Swingbuddy Staging",
