@@ -2,7 +2,7 @@
   {
     "name": "Swingbuddy Production",
     "url": "https://prod.swingbuddy.se/version",
-    "icon": "https://favicons.githubusercontent.com/prod.swingbuddy.se",
+    "icon": "https://icons.duckduckgo.com/ip3/prod.swingbuddy.se.ico",
     "slug": "swingbuddy-production",
     "status": "up",
     "uptime": "99.90%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 609,
-    "timeDay": 791,
-    "timeWeek": 676,
-    "timeMonth": 648,
+    "timeDay": 737,
+    "timeWeek": 717,
+    "timeMonth": 650,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2022-07-18": 270,
@@ -23,7 +23,7 @@
   {
     "name": "Swingbuddy Staging",
     "url": "https://stage.swingbuddy.se/version",
-    "icon": "https://favicons.githubusercontent.com/stage.swingbuddy.se",
+    "icon": "https://icons.duckduckgo.com/ip3/stage.swingbuddy.se.ico",
     "slug": "swingbuddy-staging",
     "status": "up",
     "uptime": "99.96%",
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 586,
-    "timeDay": 762,
-    "timeWeek": 629,
-    "timeMonth": 631,
+    "timeDay": 746,
+    "timeWeek": 646,
+    "timeMonth": 635,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2022-02-11": 128
@@ -43,7 +43,7 @@
   {
     "name": "Swingbuddy Development",
     "url": "https://dev.swingbuddy.se/version",
-    "icon": "https://favicons.githubusercontent.com/dev.swingbuddy.se",
+    "icon": "https://icons.duckduckgo.com/ip3/dev.swingbuddy.se.ico",
     "slug": "swingbuddy-development",
     "status": "up",
     "uptime": "99.76%",
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 859,
-    "timeDay": 710,
-    "timeWeek": 779,
-    "timeMonth": 839,
+    "timeDay": 994,
+    "timeWeek": 817,
+    "timeMonth": 838,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2022-04-23": 20,
