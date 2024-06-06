@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 624,
-    "timeDay": 521,
-    "timeWeek": 605,
-    "timeMonth": 645,
-    "timeYear": 617,
+    "timeDay": 550,
+    "timeWeek": 594,
+    "timeMonth": 643,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2023-09-22": 507,
       "2023-09-21": 55
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-05": 1312,
+      "2024-06-06": 15,
+      "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
@@ -400,8 +401,7 @@
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
-      "2023-06-08": 1440,
-      "2023-06-07": 1440
+      "2023-06-08": 1440
     }
   },
   {
@@ -411,17 +411,16 @@
     "slug": "swingbuddy-development",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.89%",
     "time": 808,
-    "timeDay": 731,
-    "timeWeek": 802,
-    "timeMonth": 851,
+    "timeDay": 783,
+    "timeWeek": 788,
+    "timeMonth": 847,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2024-06-05": 7,
       "2024-05-25": 16,
       "2024-04-02": 29,
       "2024-02-28": 27,
