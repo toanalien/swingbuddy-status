@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 625,
-    "timeDay": 796,
-    "timeWeek": 713,
-    "timeMonth": 705,
-    "timeYear": 623,
+    "timeDay": 720,
+    "timeWeek": 748,
+    "timeMonth": 713,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2023-09-22": 507,
       "2023-09-21": 55
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.swingbuddy.se.ico",
     "slug": "swingbuddy-staging",
     "status": "down",
-    "uptime": "36.61%",
+    "uptime": "36.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-13": 16,
+      "2024-07-14": 18,
+      "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
@@ -400,8 +401,7 @@
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
-      "2023-07-16": 1440,
-      "2023-07-15": 1440
+      "2023-07-16": 1440
     }
   },
   {
@@ -410,14 +410,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.swingbuddy.se.ico",
     "slug": "swingbuddy-development",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 808,
-    "timeDay": 717,
-    "timeWeek": 850,
+    "time": 807,
+    "timeDay": 720,
+    "timeWeek": 787,
     "timeMonth": 814,
     "timeYear": 805,
     "dailyMinutesDown": {
