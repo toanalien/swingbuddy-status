@@ -1,7 +1,7 @@
 url: https://prod.swingbuddy.se/version
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-22T02:18:22.391Z
+status: up
+code: 200
+responseTime: 515
+lastUpdated: 2025-04-22T07:07:05.016Z
 startTime: 2022-02-08T10:39:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
