@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 656,
-    "timeDay": 589,
-    "timeWeek": 609,
-    "timeMonth": 652,
+    "timeDay": 519,
+    "timeWeek": 592,
+    "timeMonth": 648,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2025-08-18": 422,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.swingbuddy.se.ico",
     "slug": "swingbuddy-staging",
     "status": "down",
-    "uptime": "24.41%",
+    "uptime": "24.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 23,
+      "2025-09-29": 21,
+      "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -402,8 +403,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -416,14 +416,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 814,
-    "timeDay": 1132,
-    "timeWeek": 751,
-    "timeMonth": 774,
+    "uptimeYear": "99.92%",
+    "time": 813,
+    "timeDay": 715,
+    "timeWeek": 745,
+    "timeMonth": 767,
     "timeYear": 823,
-    "dailyMinutesDown": {
-      "2024-09-29": 467
-    }
+    "dailyMinutesDown": {}
   }
 ]
